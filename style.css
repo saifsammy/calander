@@ -6,6 +6,10 @@
     column-gap: 10px;
 }
 
+.calander:hover {
+    background-color: chocolate;
+}
+
 .date,
 .day {
     background-color: skyblue;
