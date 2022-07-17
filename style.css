@@ -8,6 +8,7 @@
 
 .calander:hover {
     background-color: chocolate;
+    cursor: progress;
 }
 
 .date,
@@ -28,4 +29,12 @@
 
 .other-month {
     background-color: rgb(173, 173, 22);
+}
+
+.date:hover {
+    background-color: chocolate;
+}
+
+.day:hover {
+    background-color: rgb(87, 10, 10);
 }
